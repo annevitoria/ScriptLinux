@@ -19,4 +19,6 @@ O script realiza as seguintes ações:
 1. Clone este repositório ou baixe o arquivo de script.
 2. Dê permissão de execução ao script:
    ```bash
-   chmod +x nome_do_script.sh
+   chmod +x script.sh
+Execute o script:
+bash ./script.sh
